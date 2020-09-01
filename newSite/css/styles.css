@@ -1,3 +1,5 @@
-div {
+.topContainer {
   background-color: #f8bd7f;
+  height: 200px;
+  width: 200px;
 }
