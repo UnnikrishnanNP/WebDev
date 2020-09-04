@@ -1,5 +1,23 @@
-.topContainer {
+body {
+  text-align: center;
+
+  font-family: "Balsamiq Sans", cursive;
+}
+#heading {
+  font-family: "Syne", sans-serif;
+}
+#para1 {
+  font-family: "Press Start 2P", cursive;
+}
+.top-container {
+  margin: 0 auto;
   background-color: #f8bd7f;
-  height: 200px;
-  width: 200px;
+}
+.top-cloud {
+  position: relative;
+  left: 250px;
+  top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
 }
