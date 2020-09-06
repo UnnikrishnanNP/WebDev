@@ -27,6 +27,9 @@ body {
   position: absolute;
   left: 100px;
 }
+.middle-container {
+  margin: 100px 0;
+}
 .my-img {
   width: 25%;
 }
@@ -70,7 +73,7 @@ hr {
   font-family: sans-serif;
   font-size: 20px;
   font-weight: 100;
-  padding: 20px;
+  padding: 30px;
   background-color: #00416d;
   box-shadow: 1px 1px 20px 0px #000000;
   -webkit-box-shadow: 1px 1px 20px 0px #000000;
@@ -96,9 +99,7 @@ hr {
   border-radius: 20px;
   text-decoration: none;
 }
-.contact-me {
-  padding: 30px;
-}
+
 .bottom-container {
   background-color: #f5f1da;
   line-height: 3;
@@ -110,4 +111,7 @@ hr {
 }
 a:hover {
   text-decoration: underline;
+}
+.contact-text {
+  padding: 30px;
 }
